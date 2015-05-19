@@ -1,0 +1,8 @@
+*.csv
+household_power_consumption.txt
+*.html
+.RData
+.Rhistory
+.Rproj.user
+*.zip
+subsetfile
